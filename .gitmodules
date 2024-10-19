@@ -1,24 +1,24 @@
 [submodule "external/SDL"]
-	path = external/SDL
+	path = Dependencies/SDL
 	url = https://github.com/libsdl-org/SDL
 [submodule "external/SDL_image"]
-	path = external/SDL_image
+	path = Dependencies/SDL_image
 	url = https://github.com/libsdl-org/SDL_image
 [submodule "external/SDL_ttf"]
-	path = external/SDL_ttf
+	path = Dependencies/SDL_ttf
 	url = https://github.com/libsdl-org/SDL_ttf
 [submodule "external/SDL_mixer"]
-	path = external/SDL_mixer
+	path = Dependencies/SDL_mixer
 	url = https://github.com/libsdl-org/SDL_mixer
 [submodule "external/lua"]
-	path = external/lua
+	path = Dependencies/lua
 	url = https://github.com/lua/lua
 [submodule "external/imgui"]
-	path = external/imgui
+	path = Dependencies/imgui
 	url = https://github.com/ocornut/imgui
 [submodule "external/SQLite3MultipleCiphers"]
-	path = external/SQLite3MultipleCiphers
+	path = Dependencies/SQLite3MultipleCiphers
 	url = https://github.com/utelle/SQLite3MultipleCiphers
 [submodule "external/ip2region"]
-	path = external/ip2region
+	path = Dependencies/ip2region
 	url = https://gitee.com/lionsoul/ip2region
