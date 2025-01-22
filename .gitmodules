@@ -22,3 +22,6 @@
 [submodule "external/ip2region"]
 	path = Dependencies/ip2region
 	url = https://gitee.com/lionsoul/ip2region
+[submodule "Dependencies/RmlUi"]
+	path = Dependencies/RmlUi
+	url = https://github.com/mikke89/RmlUi
